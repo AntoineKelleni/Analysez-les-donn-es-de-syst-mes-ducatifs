@@ -1,4 +1,24 @@
 # Projet d'Analyse Exploratoire
+<p style="text-align: center;">
+  <img src="logo_OCR.jpg" alt="Logo Academy" width="100">
+</p>
+<h1 style="text-align: center;">Projet d’analyse exploratoire</h1>
+
+# Contexte
+
+Je suis __Data Scientist__ au sein de la start-up *academy*, qui propose des contenus de formation en ligne pour un public allant du lycée à l’université.
+
+Mon manager, Mark, m’a présenté le projet d’expansion internationale de l’entreprise. Il m’a confié une première mission d’analyse exploratoire : déterminer si les données éducatives de la Banque Mondiale peuvent aider à orienter les choix stratégiques d’implantation à l’étranger. [Voici le lien vers le jeu de données. ](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip)
+
+[(issu du site de la Banque Mondiale). ](https://datacatalog.worldbank.org/dataset/education-statistics)
+
+
+
+🎯 __Mon objectif__ : identifier les pays présentant un fort potentiel pour les services proposés par academy, et anticiper l’évolution de ce potentiel dans le temps.
+
+Je vais pour cela suivre un ensemble d’exercices guidés, qui me permettront de valider si ces jeux de données fournissent des insights pertinents pour appuyer la prise de décision.
+
+Ce premier exercice consiste à explorer les jeux de données en surface, afin d’en dégager une première compréhension.
 
 ## Introduction
 
