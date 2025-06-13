@@ -29,10 +29,14 @@ L'objectif principal est d'identifier les pays présentant un fort potentiel pou
 
 ## Étapes de l'analyse
 
-1. **Chargement des données** : Importation des bibliothèques nécessaires et chargement des fichiers CSV.
-2. **Visualisation des données** : Affichage des premières lignes et dimensions des jeux de données pour une première compréhension.
-3. **Nettoyage des données** : Première étape de nettoyage pour préparer les données à l'analyse.
-
+1. **Chargement des données** : Importation des bibliothèques nécessaires et chargement des fichiers CSV.  
+2. **Visualisation des données** : Affichage des premières lignes et dimensions des jeux de données pour une première compréhension.  
+3. **Nettoyage des données** : Première étape de nettoyage pour préparer les données à l'analyse.  
+4. **Sélection des indicateurs pertinents** : Filtrage des indicateurs en lien avec l’éducation et les besoins d'academy.  
+5. **Préparation des données pour l’analyse** : Mise en forme, gestion des valeurs manquantes et normalisation des données.  
+6. **Analyse exploratoire** : Exploration statistique et visuelle des indicateurs pour repérer des tendances par pays.  
+7. **Identification des pays à fort potentiel** : Croisement des données pour repérer les pays les plus prometteurs.
+8. 
 ## Jeux de données utilisés
 
 - `EdStatsCountry.csv` : 241 lignes, 32 colonnes
